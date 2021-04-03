@@ -1,0 +1,33 @@
+(Start)
+by: Admin
+location: Al-safa district.
+state: Opened report
+Hello all, I hope you're all enjoying your day. 
+I've found this cat at my district.
+The cat color is white, and his eye color is green.
+
+
+
+
+
+
+reporter: this my phone number 055*********
+image: whiteCat.jpg
+(End)
+(End)
+(Start)
+by: Admin
+location: Jeddah
+state: Closed report
+I found this cat
+She is white cat
+
+
+
+
+
+
+reporter: i live in jeddah
+image: 11.jpg
+Found
+(End)

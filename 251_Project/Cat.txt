@@ -1,0 +1,3 @@
+000 # Oli # 2 # Male # Short hair # Brown # 4 # 1.jpg
+001 # Mary # 1 # Female # british shorthair  # Dark grey # 4 # 7.jpg
+002 # Flona # 4 # Female # Himalayan cat # White and brown # 6 # 12.png
